@@ -1,6 +1,5 @@
 ```matlab
 %% SCRI 2026/27 - TP1: Estimacao de Estado (WLS)
-%  Modelo, Ybus, vetor de estado, vetor de medidas e funcoes de medida
 %  h(x) escritas em funcao de Y = G + jB (calculo de h na iteracao 0)
 clear; clc;
 
