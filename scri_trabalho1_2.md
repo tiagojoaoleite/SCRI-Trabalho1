@@ -1,8 +1,5 @@
 ```matlab
 %% SCRI 2026/27 - TP1: Estimacao de Estado (WLS)
-%  h(x) escritas em funcao de Y = G + jB (calculo de h na iteracao 0)
-clear; clc;
-
 
 % ==================== MODELO ====================
 % --- Admitancias serie das linhas (pu) ---
